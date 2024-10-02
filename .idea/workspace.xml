@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90a22738-db5c-4992-b60d-b0c8381928aa" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch03/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/ArithOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/LogicalOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/LogicalOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/Mission1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/Mission3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/Mission5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/PrePostfixOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/PrefixOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/RelationalOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/UnaryAddMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfElseIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/Mission1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="90a22738-db5c-4992-b60d-b0c8381928aa" name="Changes" comment="10-02 (1)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/BiggerValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/BiggerValueDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/BiggerValueDiff2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/CondOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfReit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfReit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfReit3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/Mission2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day01/ch02/UseVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day01/ch02/UseVariable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +61,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArithOp.executor": "Run",
+    "Application.BiggerValue.executor": "Run",
+    "Application.BiggerValueDiff.executor": "Run",
+    "Application.BiggerValueDiff2.executor": "Run",
     "Application.CharType.executor": "Run",
+    "Application.CondOp.executor": "Run",
     "Application.FirstJavaProgram.executor": "Run",
     "Application.If.executor": "Run",
     "Application.IfElse.executor": "Run",
     "Application.IfElseIfElse.executor": "Run",
+    "Application.IfReit.executor": "Run",
+    "Application.IfReit2.executor": "Run",
+    "Application.IfReit3.executor": "Run",
     "Application.LogicalOp.executor": "Run",
     "Application.LogicalOp2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mission1.executor": "Run",
+    "Application.Mission2.executor": "Run",
     "Application.Mission3.executor": "Run",
     "Application.Mission5.executor": "Run",
     "Application.PrePostfixOp.executor": "Run",
@@ -96,9 +95,14 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Mission1">
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.If" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.day02.ch05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BiggerValueDiff2">
+    <configuration name="BiggerValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.BiggerValue" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfElse" />
+    <configuration name="BiggerValueDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.BiggerValueDiff" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfElseIfElse" />
+    <configuration name="BiggerValueDiff2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.BiggerValueDiff2" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mission1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.Mission1" />
+    <configuration name="IfReit2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfReit2" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
@@ -149,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrePostfixOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch04.PrePostfixOp" />
+    <configuration name="IfReit3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfReit3" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.ch04.*" />
+          <option name="PATTERN" value="org.example.day02.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mission1" />
-        <item itemvalue="Application.IfElseIfElse" />
-        <item itemvalue="Application.IfElse" />
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.PrePostfixOp" />
+        <item itemvalue="Application.BiggerValueDiff2" />
+        <item itemvalue="Application.BiggerValueDiff" />
+        <item itemvalue="Application.BiggerValue" />
+        <item itemvalue="Application.IfReit3" />
+        <item itemvalue="Application.IfReit2" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727687163425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10-02 (1)">
+      <option name="closed" value="true" />
+      <created>1727851827296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727851827296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +217,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="10-02 (1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-02 (1)" />
   </component>
 </project>
