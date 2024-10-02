@@ -12,14 +12,14 @@ public class UseVariable {
         int var1; //정수 타입의 var1 변수 선언을 하였다.
         // '=' 대입 연산자를 사용하여 변수 공간에 데이터를 집어 넣는다.
         // =는 대입연사자, 오른쪽에 있는 값을 복사하여 왼쪽 공간에 넣는다.
-        var1 = 10;
+        var1 = 10; //초기화
         System.out.println(var1 + var1);
 
         var1 = 20;
         System.out.println(var1 + var1);
         //11 = 12;
 
-        int var2 = 30;
+        int var2 = 30; //초기화
 
     }
 }

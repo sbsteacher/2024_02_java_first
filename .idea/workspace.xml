@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90a22738-db5c-4992-b60d-b0c8381928aa" name="Changes" comment="" />
+    <list default="true" id="90a22738-db5c-4992-b60d-b0c8381928aa" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch03/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/ArithOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/LogicalOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/LogicalOp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/Mission1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/Mission3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/Mission5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/PrePostfixOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/PrefixOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/RelationalOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch04/UnaryAddMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfElseIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/Mission1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day01/ch02/UseVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day01/ch02/UseVariable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,37 +41,68 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DoheumPark&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sbsteacher/2024_02_java.git&quot;,
+    &quot;accountId&quot;: &quot;7772cc1e-70f3-4cf8-a52d-c8752fe5387a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mmQPhiohICKfR3MnEpIVEjW9m7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArithOp.executor": "Run",
     "Application.CharType.executor": "Run",
     "Application.FirstJavaProgram.executor": "Run",
+    "Application.If.executor": "Run",
+    "Application.IfElse.executor": "Run",
+    "Application.IfElseIfElse.executor": "Run",
+    "Application.LogicalOp.executor": "Run",
+    "Application.LogicalOp2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mission1.executor": "Run",
     "Application.Mission3.executor": "Run",
+    "Application.Mission5.executor": "Run",
+    "Application.PrePostfixOp.executor": "Run",
+    "Application.PrefixOp.executor": "Run",
+    "Application.RelationalOp.executor": "Run",
     "Application.SystemOutPrintLn.executor": "Run",
+    "Application.UnaryAddMin.executor": "Run",
     "Application.UseVariable.executor": "Run",
     "Application.VariableDecl.executor": "Run",
     "Gradle.first [:org.example.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/2024-02/back_end/first/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CharType">
-    <configuration name="CharType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day01.ch02.CharType" />
+  <component name="RunManager" selected="Application.Mission1">
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.If" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day01.ch02.*" />
+          <option name="PATTERN" value="org.example.day02.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mission3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day01.ch01.Mission3" />
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfElse" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day01.ch01.*" />
+          <option name="PATTERN" value="org.example.day02.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemOutPrintLn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day01.ch01.SystemOutPrintLn" />
+    <configuration name="IfElseIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfElseIfElse" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day01.ch01.*" />
+          <option name="PATTERN" value="org.example.day02.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day01.ch02.UseVariable" />
+    <configuration name="Mission1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.Mission1" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day01.ch02.*" />
+          <option name="PATTERN" value="org.example.day02.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableDecl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day01.ch02.VariableDecl" />
+    <configuration name="PrePostfixOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch04.PrePostfixOp" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day01.ch02.*" />
+          <option name="PATTERN" value="org.example.day02.ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharType" />
-        <item itemvalue="Application.VariableDecl" />
-        <item itemvalue="Application.UseVariable" />
-        <item itemvalue="Application.Mission3" />
-        <item itemvalue="Application.SystemOutPrintLn" />
+        <item itemvalue="Application.Mission1" />
+        <item itemvalue="Application.IfElseIfElse" />
+        <item itemvalue="Application.IfElse" />
+        <item itemvalue="Application.If" />
+        <item itemvalue="Application.PrePostfixOp" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +181,30 @@
       <option name="presentableId" value="Default" />
       <updated>1727679248759</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1727687163425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727687163425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
