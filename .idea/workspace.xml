@@ -4,16 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90a22738-db5c-4992-b60d-b0c8381928aa" name="Changes" comment="10-02 (1)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/BiggerValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/BiggerValueDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/BiggerValueDiff2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/CondOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfReit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfReit2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfReit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/Mission2.java" afterDir="false" />
+    <list default="true" id="90a22738-db5c-4992-b60d-b0c8381928aa" name="Changes" comment="10-02 (2)">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/BreakBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/BreakBasic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/ContinueBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/ContinueBasic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/DoWhileBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/ForBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/LottoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/Mission1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/MissionFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/MissionFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/MissionFor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/MissionFor4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/MissionFor5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/RandomValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/ScannerBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/StringBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/SwitchBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/ch05/WhileBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day02/ch03/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch03/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/CondOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/CondOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/If.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfElseIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/ch05/IfElseIfElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +80,15 @@
     "Application.BiggerValue.executor": "Run",
     "Application.BiggerValueDiff.executor": "Run",
     "Application.BiggerValueDiff2.executor": "Run",
+    "Application.BreakBasic.executor": "Run",
+    "Application.BreakBasic2.executor": "Run",
     "Application.CharType.executor": "Run",
     "Application.CondOp.executor": "Run",
+    "Application.ContinueBasic.executor": "Run",
+    "Application.ContinueBasic2.executor": "Run",
+    "Application.DoWhileBasic.executor": "Run",
     "Application.FirstJavaProgram.executor": "Run",
+    "Application.ForBasic.executor": "Run",
     "Application.If.executor": "Run",
     "Application.IfElse.executor": "Run",
     "Application.IfElseIfElse.executor": "Run",
@@ -75,20 +97,32 @@
     "Application.IfReit3.executor": "Run",
     "Application.LogicalOp.executor": "Run",
     "Application.LogicalOp2.executor": "Run",
+    "Application.LottoNumber.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mission1.executor": "Run",
     "Application.Mission2.executor": "Run",
     "Application.Mission3.executor": "Run",
     "Application.Mission5.executor": "Run",
+    "Application.MissionFor1.executor": "Run",
+    "Application.MissionFor2.executor": "Run",
+    "Application.MissionFor3.executor": "Run",
+    "Application.MissionFor4.executor": "Run",
+    "Application.MissionFor5.executor": "Run",
     "Application.PrePostfixOp.executor": "Run",
     "Application.PrefixOp.executor": "Run",
+    "Application.RandomValue.executor": "Run",
     "Application.RelationalOp.executor": "Run",
+    "Application.ScannerBasic.executor": "Run",
+    "Application.StringBasic.executor": "Run",
+    "Application.SwitchBasic.executor": "Run",
     "Application.SystemOutPrintLn.executor": "Run",
     "Application.UnaryAddMin.executor": "Run",
     "Application.UseVariable.executor": "Run",
     "Application.VariableDecl.executor": "Run",
+    "Application.WhileBasic.executor": "Run",
     "Gradle.first [:org.example.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/2024-02/back_end/first/src/main/java/org/example/Main.java",
@@ -97,16 +131,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.day03.ch05" />
       <recent name="org.example.day02.ch05" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BiggerValueDiff2">
-    <configuration name="BiggerValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.BiggerValue" />
+  <component name="RunManager" selected="Application.ScannerBasic">
+    <configuration name="BreakBasic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.ch05.BreakBasic2" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.ch05.*" />
+          <option name="PATTERN" value="org.example.day03.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiggerValueDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.BiggerValueDiff" />
+    <configuration name="ContinueBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.ch05.ContinueBasic" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.ch05.*" />
+          <option name="PATTERN" value="org.example.day03.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiggerValueDiff2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.BiggerValueDiff2" />
+    <configuration name="ContinueBasic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.ch05.ContinueBasic2" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.ch05.*" />
+          <option name="PATTERN" value="org.example.day03.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfReit2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfReit2" />
+    <configuration name="ScannerBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.ch05.ScannerBasic" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.ch05.*" />
+          <option name="PATTERN" value="org.example.day03.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfReit3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.ch05.IfReit3" />
+    <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.ch05.StringBasic" />
       <module name="first.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.ch05.*" />
+          <option name="PATTERN" value="org.example.day03.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BiggerValueDiff2" />
-        <item itemvalue="Application.BiggerValueDiff" />
-        <item itemvalue="Application.BiggerValue" />
-        <item itemvalue="Application.IfReit3" />
-        <item itemvalue="Application.IfReit2" />
+        <item itemvalue="Application.ScannerBasic" />
+        <item itemvalue="Application.StringBasic" />
+        <item itemvalue="Application.ContinueBasic2" />
+        <item itemvalue="Application.ContinueBasic" />
+        <item itemvalue="Application.BreakBasic2" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727851827296</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10-02 (2)">
+      <option name="closed" value="true" />
+      <created>1727860232303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727860232303</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +261,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="10-02 (1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="10-02 (1)" />
+    <MESSAGE value="10-02 (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-02 (2)" />
   </component>
 </project>

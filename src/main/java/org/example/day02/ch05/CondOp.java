@@ -7,5 +7,7 @@ public class CondOp {
         int num = 23;
 
         System.out.println( (num % 2 == 0 ? "짝" : "홀") + "수입니다." );
+        System.out.println( "짝" + "수입니다." ); //식이 true였다면
+        System.out.println( "홀" + "수입니다." ); //식이 false였다면
     }
 }
